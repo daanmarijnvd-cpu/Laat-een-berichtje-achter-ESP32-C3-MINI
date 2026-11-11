@@ -12,7 +12,7 @@ DNSServer dnsServer;
 WebServer server(80);
 
 const char* messagesFile = "/messages.txt";
-const String adminPassword = "3D7dgh";
+const String adminPassword = "admin";
 
 // Lijst met verboden scheldwoorden
 const char* badWords[] = {"kut", "tering", "godverde", "kolere", "shit", "fuck", "bitch", "hufter", "kanker", "neger", "niga"};
