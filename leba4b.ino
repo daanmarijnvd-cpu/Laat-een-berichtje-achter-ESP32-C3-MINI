@@ -13,7 +13,7 @@ WebServer server(80);
 
 const char* messagesFile = "/messages.txt";
 const char* tmpFile = "/messages.tmp";
-const String adminPassword = "3D7dgh";
+const String adminPassword = "admin";
 
 // Ingebouwd ledje van de ESP32-C3 mini.
 const int LED_PIN = 8;
